@@ -1,5 +1,5 @@
 const express = require("express")
-const {PostModel} = require ("../module/post.module")
+const {PostModel} = require ("../Models/PostModel")
 
 const postRoutes = express.Router()
 
